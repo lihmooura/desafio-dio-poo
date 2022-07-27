@@ -1,0 +1,15 @@
+package desafio.poo.dio.dominio;
+
+public class Curso {
+
+	private int cargaHoraria;
+	
+	public int getCargaHoraria() {
+		return cargaHoraria;
+	}
+	public void setCargaHoraria(int cargaHoraria) {
+		this.cargaHoraria = cargaHoraria;
+	}
+	
+	
+}
